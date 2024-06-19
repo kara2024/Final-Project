@@ -13,7 +13,7 @@
 
   KaraGrills is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/kara2024/Final-Project"><strong>➥ Live Demo</strong></a>
+  <a href="https://karagrills.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
